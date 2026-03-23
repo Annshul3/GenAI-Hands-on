@@ -3,4 +3,18 @@
 __pycache__/
 *.pyc
 .DS_Store
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook outputs (optional but good)
+*.log
+
+# OS files
+Thumbs.db
+
+# Temporary files
+*.tmp
+
+# Legacy / unused
 legacy/
